@@ -25,10 +25,8 @@ const About = () => {
             <span className="text-white">I am a </span>
             <ReactTypingEffect
               text={[
-                'Full-Stack Developer',
-                'Software Engineer',
-                'UI/UX Designer',
-                'Coder',
+                'Software Developer'
+               
               ]}
               speed={100}
               eraseSpeed={50}
@@ -41,15 +39,11 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-            I am a full-stack developer with over 1 years of experience in
-            building scalable web applications. Skilled in both front-end and
-            back-end development, I specialize in the MERN stack and other
-            modern technologies to create seamless user experiences and
-            efficient solutions.
+            BCA graduate with hands-on training in web development and technical support. Experienced in building web applications using Angular, Flask, and MySQL, with a strong interest in learning and creating practical software solutions.
           </p>
           {/* Resume Button */}
           <a
-            href="https://drive.google.com/file/d/1JszScytaQW6IIFoy1yWk8GeQNI9CRcHN/view?usp=drivesdk"
+            href="https://drive.google.com/file/d/1ohZnRDs8hNzmzzrtpU75vhCIjJHuYHLx/view?usp=drivesdk"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"

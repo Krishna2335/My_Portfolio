@@ -5,28 +5,19 @@ import sassLogo from './assets/tech_logo/sass.png';
 import javascriptLogo from './assets/tech_logo/javascript.png';
 import reactjsLogo from './assets/tech_logo/reactjs.png';
 import angularLogo from './assets/tech_logo/angular.png';
-import reduxLogo from './assets/tech_logo/redux.png';
-import nextjsLogo from './assets/tech_logo/nextjs.png';
 import tailwindcssLogo from './assets/tech_logo/tailwindcss.png';
-import gsapLogo from './assets/tech_logo/gsap.png';
-import materialuiLogo from './assets/tech_logo/materialui.png';
 import bootstrapLogo from './assets/tech_logo/bootstrap.png';
 import springbootLogo from './assets/tech_logo/springboot.png';
 import nodejsLogo from './assets/tech_logo/nodejs.png';
-import expressjsLogo from './assets/tech_logo/express.png';
 import mysqlLogo from './assets/tech_logo/mysql.png';
-import mongodbLogo from './assets/tech_logo/mongodb.png';
 import cLogo from './assets/tech_logo/c.png';
 import cppLogo from './assets/tech_logo/cpp.png';
 import javaLogo from './assets/tech_logo/java.png';
 import pythonLogo from './assets/tech_logo/python.png';
-import typescriptLogo from './assets/tech_logo/typescript.png';
 import gitLogo from './assets/tech_logo/git.png';
 import githubLogo from './assets/tech_logo/github.png';
 import vscodeLogo from './assets/tech_logo/vscode.png';
 import postmanLogo from './assets/tech_logo/postman.png';
-import postgreLogo from './assets/tech_logo/postgre.png';
-import csharpLogo from './assets/tech_logo/csharp.png';
 import intellijideaLogo from './assets/tech_logo/intellij_idea_logo.png';
 import flaskLogo from './assets/tech_logo/flask_logo.png';
 
@@ -57,11 +48,7 @@ export const SkillsInfo = [
       { name: 'JavaScript', logo: javascriptLogo },
       { name: 'React JS', logo: reactjsLogo },
       { name: 'Angular', logo: angularLogo },
-      { name: 'Redux', logo: reduxLogo },
-      { name: 'Next JS', logo: nextjsLogo },
       { name: 'Tailwind CSS', logo: tailwindcssLogo },
-      { name: 'GSAP', logo: gsapLogo },
-      { name: 'Material UI', logo: materialuiLogo },
       { name: 'Bootstrap', logo: bootstrapLogo },
     ],
   },
@@ -70,10 +57,7 @@ export const SkillsInfo = [
     skills: [
       { name: 'Springboot', logo: springbootLogo },
       { name: 'Node JS', logo: nodejsLogo },
-      { name: 'Express JS', logo: expressjsLogo },
       { name: 'MySQL', logo: mysqlLogo },
-      { name: 'MongoDB', logo: mongodbLogo },
-      { name: 'PostgreSQL', logo: postgreLogo },
       { name: 'Flask', logo: flaskLogo},
     ],
   },
@@ -84,9 +68,7 @@ export const SkillsInfo = [
       { name: 'C++', logo: cppLogo },
       { name: 'Java', logo: javaLogo },
       { name: 'Python', logo: pythonLogo },
-      { name: 'C-Sharp', logo: csharpLogo },
       { name: 'JavaScript', logo: javascriptLogo },
-      { name: 'TypeScript', logo: typescriptLogo },
     ],
   },
   {
@@ -105,10 +87,10 @@ export const SkillsInfo = [
     {
       id: 0,
       img: logorkyLogo,
-      role: "Fullstack Developer",
+      role: "Web Engineer / Technical Support Trainee",
       company: "RKY EDGE DISTRIBUTION PVT. LTD",
-      date: "September 2025 - Present",
-      desc: "Developed dynamic and scalable web applications using the MERN stack, handling both frontend and backend development. Collaborated with cross-functional teams to build responsive UI, implement RESTful APIs, and optimize application performance in an agile environment.",
+      date: "August 2025 - December 2025",
+      desc: "Completed hands-on training in software development concepts and programming. Worked on real-world tasks and small projects to improve problem-solving skills. Learned practical implementation of programming logic and application development. Gained exposure to industry-oriented workflows and best practices.",
       skills: [
         "HTML",
         "SCSS",
@@ -144,7 +126,7 @@ export const SkillsInfo = [
       img: srmuLogo,
       school: "Shri Ramswaroop Memorial University",
       date: "Sept 2022 - Aug 2025",
-      grade: "6.08 CGPA",
+      grade: "6.08 GPA",
       desc: "I completed my Bachelor's degree in Computer Science (BCA.) from SRMU University, Lucknow. Throughout my studies, I was immersed in a variety of subjects that deepened my understanding of computing and technology. From exploring Data Structures and Algorithms to diving into Web Development and Database Management Systems, I gained practical insights into the world of software development. My time at SRMU University allowed me to work on projects that applied theoretical concepts to real-world problems.",
       degree: "Bachelor of Computer Applications - BCA (Computer Science)",
     },
