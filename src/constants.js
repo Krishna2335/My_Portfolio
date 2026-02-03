@@ -169,7 +169,7 @@ export const SkillsInfo = [
       image: rkyLogo,
       tags: [ "Node.js", "HTML", "SCSS", "JavaScript", "Angular", "Flask", "Python", "MySQL" ],
       github: "https://github.com/RKY261001/RKY-EDGE",
-      webapp: "#",
+      webapp: "https://rkyedge.in",
     },
     {
       id: 2,
